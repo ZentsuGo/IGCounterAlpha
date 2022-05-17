@@ -7,3 +7,9 @@ Elle permet de récupérer certaines informations sur Instagram que l'on pourrai
 Le logiciel exploite donc cette API et récupère des informations sur les postes d'utilisateurs (quelques exemples énoncés précédemment) et les sauvegarde dans des fichiers correspondant à chaque poste le tout dans un dossier. Cela pourrait avoir des fins marketings pour connaître l'audience et la cibler sur du contenu similaire.
 
 Le projet est réalisé en Java et est basé sur la librairie swing de Java et n'est plus maintenu à jour depuis 2017.
+
+Démonstration d'utilisation :
+
+Utilisation basique :
+
+  ![alt text](https://github.com/zentsugo/UnknownBot/blob/main/IGC-basic-use.gif?raw=true)
