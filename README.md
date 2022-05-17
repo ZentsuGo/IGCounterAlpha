@@ -12,4 +12,17 @@ Démonstration d'utilisation :
 
 Utilisation basique :
 
+
   ![alt text](https://github.com/zentsugo/IGCounterAlpha/blob/main/IGC-basic-use.gif)
+
+
+ Le logiciel se base sur un compte de bot inactif préexistant, il peut être changé au besoin de l'utilisateur :
+ 
+ 
+  ![alt text](https://github.com/zentsugo/IGCounterAlpha/blob/main/IGC-change-account-and-save-location.gif.gif)
+  
+  
+Iconification dans la barre des tâches :
+
+
+  ![alt text](https://github.com/zentsugo/IGCounterAlpha/blob/main/IGC-frame.gif)
