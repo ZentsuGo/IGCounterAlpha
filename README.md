@@ -12,4 +12,4 @@ Démonstration d'utilisation :
 
 Utilisation basique :
 
-  ![alt text](https://github.com/zentsugo/UnknownBot/blob/main/IGC-basic-use.gif?raw=true)
+  ![alt text](https://github.com/zentsugo/IGCounterAlpha/blob/main/IGC-basic-use.gif?raw=true)
