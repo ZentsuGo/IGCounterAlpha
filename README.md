@@ -19,7 +19,7 @@ Utilisation basique :
  Le logiciel se base sur un compte de bot inactif préexistant, il peut être changé au besoin de l'utilisateur :
  
  
-  ![alt text](https://github.com/zentsugo/IGCounterAlpha/blob/main/IGC-change-account-and-save-location.gif.gif)
+  ![alt text](https://github.com/zentsugo/IGCounterAlpha/blob/main/IGC-change-account-and-save-location.gif)
   
   
 Iconification dans la barre des tâches :
